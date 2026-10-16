@@ -46,11 +46,11 @@ export default function Homee() {
       <div className="flex items-center justify-center gap-10 pt-10">
         <img src={html} alt="html" />
         <img src={css} alt="css" />
+        <img src={node} alt="node" />
+        <img src={react} alt="react" />
+        <img src={spring} alt="spring" />
         <img src={java} alt="java" />
         <img src={figma} alt="figma" />
-        <img src={react} alt="react" />
-        <img src={node} alt="node" />
-        <img src={spring} alt="spring" />
         <img src={Firebase} alt="Firebase" />
       </div>
 
